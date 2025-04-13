@@ -1,6 +1,7 @@
 # Git Objects Analyzer
 
-![Git Objects Analyzer Screenshot](screenshot.png)
+![Git Internals](./assets/excalli.png)
+![Dashboard](./assets/dashboard.png)
 
 A powerful tool to analyze Git objects (blobs, trees, commits) and generate an interactive HTML report with advanced filtering and search capabilities.
 
